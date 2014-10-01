@@ -31,7 +31,7 @@
   { "name": "Giant Crocodile", "challenge": 5 },
   { "name": "Giant Eagle", "challenge": 1 },
   { "name": "Giant Elk", "challenge": 2 },
-  { "name": "Giant Fire Beetle", "challenge": 2 },
+  { "name": "Giant Fire Beetle", "challenge": 0 },
   { "name": "Giant Frog", "challenge": 0.25 },
   { "name": "Giant Goat", "challenge": 0.5 },
   { "name": "Giant Hyena", "challenge": 1 },
